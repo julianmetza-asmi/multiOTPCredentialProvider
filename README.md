@@ -16,8 +16,7 @@ The binary download page is available here : https://download.multiotp.net/crede
 
 Visit http://forum.multiotp.net/ for additional support.
 
-
-multiOTP Credential Provider for multiOTP supporting Windows 7/8/8.1/10/2012(R2)/2016/2019
+multiOTP Credential Provider for multiOTP supporting Windows 7/8/8.1/10/2012(R2)/2016/2019/2022
 - support MSI deployement with MST transform file
 - supports both local and domain users
 - forced OTP check for RDP
